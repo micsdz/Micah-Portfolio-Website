@@ -257,21 +257,18 @@ img{
     font-size: var(--h2-font-size);
 }
 /* buttons */
-.button{
+.button, .resume{
     display: inline-block;
     background-color: var(--first-color);
     color: #fff;
-    padding: 1rem;
     border-radius: .5rem;
     font-weight: var(--font-medium);
 }
-.buttons{
-    display: inline-block;
-    background-color: var(--first-color);
-    color: #fff;
+.button{
+    padding: 1rem;
+}
+.resume{
     padding: 0;
-    border-radius: .5rem;
-    font-weight: var(--font-medium);
 }
 .button_icon{
     font-size: var(--h2-font-size);
