@@ -13,7 +13,7 @@ will showcase my skills and talents to employers. I was able to apply my knowled
 
 Website's Appearance:
 
-![Appearance](assets/gif/Mobileview.gif)
+![Appearance](Assets/gif/Mobileview.gif)
 
 ### Built With
 
@@ -24,9 +24,6 @@ Website's Appearance:
 ## Project Link
 [Portfolio Repository](https://github.com/micsdz/Micah-Portfolio-Website)
 [Portfolio Live Website](https://micsdz.github.io/Micah-Portfolio-Website/)
-
-[![Top Langs](https://github-readme-Micah-Portfolio-Website/api/top-langs/?username=micsdz)](https://github.com/micsdz/github-readme-stats)
-
 
 ## Contact Info
 
