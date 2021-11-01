@@ -9,7 +9,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/theresaqueryforthat/website_accessibility_refactor">
+  <a href="https://github.com/micsdz/Micah-Portfolio-Website">
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
