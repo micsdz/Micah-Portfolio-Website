@@ -42,8 +42,8 @@ Micah Diaz - micah.diaz@du.edu
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/theresaqueryforthat/website_accessibility_refactor.svg?style=for-the-badge
-[contributors-url]: https://github.com/theresaqueryforthat/website_accessibility_refactor/graphs/contributors
+[contributors-shield]: https://img.shields.io/github/contributors/github_username/repo_name.svg?style=for-the-badge
+[contributors-url]: https://github.com/github_username/repo_name/graphs/contributors
 [forks-shield]: https://img.shields.io/github/forks/theresaqueryforthat/website_accessibility_refactor.svg?style=for-the-badge
 [forks-url]: https://github.com/theresaqueryforthat/website_accessibility_refactor/network/members
 [stars-shield]: https://img.shields.io/github/stars/theresaqueryforthat/website_accessibility_refactor.svg?style=for-the-badge
