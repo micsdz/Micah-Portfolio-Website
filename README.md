@@ -21,8 +21,6 @@ Website's Appearance:
 * [CSS](https://developer.mozilla.org/en-US/docs/Learn/CSS/First_steps/What_is_CSS)
 * [Javascript](https://www.javascript.com)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://micsdz.github.io/Micah-Portfolio-Website/)
-
 
 ## Project Link
 [Portfolio Repository](https://github.com/micsdz/Micah-Portfolio-Website)
