@@ -1,4 +1,4 @@
-# Micah's Portfolio Wedbsite
+# Micah's Portfolio Website
 
 ## Description:
 I created a web application from scratch. I was able to build a portfolio page for myself that 
@@ -20,6 +20,9 @@ Website's Appearance:
 * [HTML](https://en.wikipedia.org/wiki/HTML)
 * [CSS](https://developer.mozilla.org/en-US/docs/Learn/CSS/First_steps/What_is_CSS)
 * [Javascript](https://www.javascript.com)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&exclude_repo=github-readme-stats,anuraghazra.github.io)](https://github.com/micsdz/Micah-Portfolio-Website)
+
 
 ## Project Link
 [Portfolio Repository](https://github.com/micsdz/Micah-Portfolio-Website)
