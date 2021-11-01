@@ -21,6 +21,7 @@ Website's Appearance:
 * [CSS](https://developer.mozilla.org/en-US/docs/Learn/CSS/First_steps/What_is_CSS)
 * [Javascript](https://www.javascript.com)
 
+<p align="right">(<a href="#top">back to top</a>)</p>
 
 ## Project Link
 [Portfolio Repository](https://github.com/micsdz/Micah-Portfolio-Website)
@@ -29,3 +30,5 @@ Website's Appearance:
 ## Contact Info
 
 Micah Diaz - micah.diaz@du.edu
+
+<p align="right">(<a href="#top">back to top</a>)</p>
