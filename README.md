@@ -54,6 +54,7 @@ Website's Appearance:
 
 ## Project Link
 [Portfolio Repository](https://github.com/micsdz/Micah-Portfolio-Website)
+
 [Portfolio Live Website](https://micsdz.github.io/Micah-Portfolio-Website/)
 
 ## Contact Info
