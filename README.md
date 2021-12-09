@@ -84,10 +84,10 @@ List of Contributors:
 
 ## Contact Info
 
-Micah Diaz - micah.diaz@du.edu &nbsp [![LinkedIn][linkedin-shield]][linkedin-url-micah] &nbsp [![GitHub][github-shield]][github-url-micah]
-Giovanni Domino - gdomino01@gmail.com &nbsp [![LinkedIn][linkedin-shield]][linkedin-url-giovanni] &nbsp [![GitHub][github-shield]][github-url-giovanni]
-Kelly Walsh - kellywalsh827@gmail.com &nbsp [![LinkedIn][linkedin-shield]][linkedin-url-kelly] &nbsp [![GitHub][github-shield]][github-url-kelly]
-Najla Parker - najla08@gmail.com &nbsp [![LinkedIn][linkedin-shield]][linkedin-url-naj] &nbsp [![GitHub][github-shield]][github-url-naj]
+Micah Diaz - micah.diaz@du.edu [![LinkedIn][linkedin-shield]][linkedin-url-micah] [![GitHub][github-shield]][github-url-micah]
+Giovanni Domino - gdomino01@gmail.com [![LinkedIn][linkedin-shield]][linkedin-url-giovanni] [![GitHub][github-shield]][github-url-giovanni]
+Kelly Walsh - kellywalsh827@gmail.com [![LinkedIn][linkedin-shield]][linkedin-url-kelly] [![GitHub][github-shield]][github-url-kelly]
+Najla Parker - najla08@gmail.com [![LinkedIn][linkedin-shield]][linkedin-url-naj] [![GitHub][github-shield]][github-url-naj]
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
