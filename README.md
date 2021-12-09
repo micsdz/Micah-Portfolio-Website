@@ -46,7 +46,8 @@ PASTE DESCRIPTION HERE
 * 
 
 <p align="right">(<a href="#top">back to top</a>)</p>
-## Appearance and Functionality
+
+## Application Appearance and Functionality:
 
 Website's Appearance:
 
